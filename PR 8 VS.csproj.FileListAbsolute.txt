@@ -1,0 +1,16 @@
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_8\PR 8 VS\bin\Debug\PR 8 VS.exe.config
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_8\PR 8 VS\bin\Debug\PR 8 VS.exe
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_8\PR 8 VS\bin\Debug\PR 8 VS.pdb
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_8\PR 8 VS\obj\Debug\PR 8 VS.csproj.AssemblyReference.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_8\PR 8 VS\obj\Debug\PR 8 VS.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_8\PR 8 VS\obj\Debug\PR 8 VS.csproj.CoreCompileInputs.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_8\PR 8 VS\obj\Debug\PR 8 VS.exe
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\PR_8\PR 8 VS\obj\Debug\PR 8 VS.pdb
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\ПР 8\PR 8 VS\bin\Debug\PR 8 VS.exe.config
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\ПР 8\PR 8 VS\bin\Debug\PR 8 VS.exe
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\ПР 8\PR 8 VS\bin\Debug\PR 8 VS.pdb
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\ПР 8\PR 8 VS\obj\Debug\PR 8 VS.csproj.AssemblyReference.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\ПР 8\PR 8 VS\obj\Debug\PR 8 VS.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\ПР 8\PR 8 VS\obj\Debug\PR 8 VS.csproj.CoreCompileInputs.cache
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\ПР 8\PR 8 VS\obj\Debug\PR 8 VS.exe
+D:\Users\1213-2\Documents\2-ИСП\Дисциплина\Основы программирования\Шабалина\ПР 8\PR 8 VS\obj\Debug\PR 8 VS.pdb
